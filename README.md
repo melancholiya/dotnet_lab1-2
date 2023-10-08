@@ -1,1 +1,2 @@
-# dotnet_lab1-2
+# dotnet-lw1-generic
+design and realisation of the collection Queue&lt;T>
